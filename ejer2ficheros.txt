@@ -1,0 +1,2 @@
+A veces puede ser interesante que el usuario se descargue el fichero en vez de verlo on-line. Para realizar esta operación, solo necesitamos utilizar el siguiente código que voy a 
+explicar a continuación. El script consta de una sola parte. Vamos a descargarnos un fichero .html, en vez de verlo en el navegador. El nombre del fichero será prueba_descarga.html. 
